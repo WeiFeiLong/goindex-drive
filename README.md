@@ -1,6 +1,9 @@
 
 ![GoIndex Drive](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/go-drive-logo.png)
 
+## 2020/7/8
+不好使了，显示不出UI，但是内容还在，路径还在
+
 ### Source
 Origin https://github.com/donwa/goindex
 
